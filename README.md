@@ -1,6 +1,8 @@
 # Deep Market  
 *Weil blindes Raten kein Setup ist.*
 
+![Deep Market Cover](assets/deep_market.png)
+
 [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Deep Market** ist ein praxisorientierter Leitfaden für strukturiertes, regelbasiertes Trading.  
@@ -23,6 +25,7 @@ Das Repository enthält:
 - `src/` – alle Kapitel als Markdown-Dateien
 - `assets/` – Grafiken und Charts
 - `theme/` – Stylesheet und Design-Dateien
+- `scripts/` - Automatisierungs-Skripte
 - `index.toc` - Enthält den Inhalt des Buches und dient als Eingabe für das Build-Skript
 - `LICENSE` – Lizenzbedingungen (siehe unten)
 
