@@ -8,6 +8,26 @@ Kein Setup ist perfekt. Kein Entry garantiert. Kein Trade sicher. Was du kontrol
 
 Das sind keine rhetorischen Fragen. Das sind die Grundlagen jeder funktionierenden Strategie – egal, ob du auf dem 5-Minuten-Chart Intraday agierst oder über Tage hinweg Swing-Trades aufbaust.
 
+Du kennst das vielleicht: Du startest mit einem klaren Plan, analysierst alles sauber –
+und dann verlierst du gleich die ersten zwei Trades. Plötzlich ist alles infrage gestellt:
+
+- War das Setup wirklich valide?
+- Funktioniert das überhaupt?
+- Bin ich einfach nicht dafür gemacht?
+
+Viele Trader geben genau an diesem Punkt auf. Nicht, weil sie kein Potenzial haben –
+sondern weil sie die Erwartung hatten, dass es sofort funktioniert. Doch Trading ist kein Talent. Es ist ein Handwerk. Und wie jedes Handwerk musst du es durch Übung und Wiederholung lernen – nicht durch Glückstreffer, sondern durch Struktur, Fehler, Anpassung. 
+
+::: {.remark}
+Trading lernst du nicht durch Treffer – sondern durch Dranbleiben.
+:::
+
+Nur wer ein funktionierendes Framework hat – und es konsequent umsetzt – kann erkennen, ob es funktioniert. Aber jedes Framework – bzw. jede Strategie – hat eine statistische Basis und eine subjektive Komponente. Und genau das bedeutet: Varianz ist nie ganz vermeidbar. Aber sie lässt sich steuern – durch Wiederholung, saubere Planung und klares _Risk Management_.
+
+::: {.remark}
+Subjektivität und Erfahrung sind der Grund, warum dieselbe Strategie bei zwei Menschen unterschiedlich funktioniert – nicht wegen der Idee, sondern wegen der Umsetzung.
+:::
+
 ### Risk Management
 
 Viele Trader vergessen, dass **Trading ein Spiel mit Wahrscheinlichkeiten** ist. Das bedeutet: Du gewinnst nicht, weil du „recht hast“. Du gewinnst, weil du ein wiederholbares System konsequent durchziehst. Ein Beispiel:
@@ -136,7 +156,7 @@ In [@fig:guru_trade] zeigt der Markt einen Bullish Engulfing, ein internen Aufw�
 Ein Trade, der sich nur mit dem Blick in die Zukunft erklären lässt, ist kein Setup – sondern Storytelling.
 :::
 
-Es geht nicht darum, ob so ein Trade falsch ist. Es geht darum, ob du ihn live so gehandelt hättest. Denn das ist der einzige Maßstab, der im echten Trading zählt.
+Nicht jeder, der sowas postet, ist automatisch ein Guru – aber du solltest dir immer eine Frage stellen: Würde ich diesen Trade auch live so handeln – ohne zu wissen, was rechts vom Entry passiert? Denn es geht nicht darum, ob ein Trade im Nachhinein „falsch“ war. Es geht darum, ob du ihn in Echtzeit mit Überzeugung genommen hättest. Und das ist der einzige Maßstab, der im Trading zählt.
 
 ![Sieht perfekt aus: Liquidity Grab, interner Aufwärtstrend, Ziel an der Supply-Zone. Ein klassischer Rückblick-Trade – sauberer Entry, schöner Move, hohes CRV. Aber würdest du ihn wirklich handeln, wenn du nicht sehen würdest, was rechts der roten Linie passiert? **Dieses Beispiel ist komplett aus dem Bauch entstanden – einfach ein beliebiger Chart mit ein paar Buzzwords versehen.**](../../assets/guru_trade.png){#fig:guru_trade}
 
