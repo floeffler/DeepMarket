@@ -1,0 +1,6 @@
+src/copyright.md
+src/preamble.md
+src/chapter_1/intro.md
+src/chapter_1/basics.md
+src/chapter_1/fair_price.md
+src/chapter_1/market_structure.md

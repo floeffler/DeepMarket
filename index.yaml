@@ -1,0 +1,14 @@
+---
+title: "Deep Market"
+subtitle: "Weil blindes Raten kein Setup ist"
+author: "Falko Löffler"
+lang: de
+rights: "© 2025 Falko Löffler - CC BY-NC-ND 4.0"
+description: "Ein Leitfaden für strukturiertes, regelbasiertes Trading basierend auf Marktstruktur, Supply & Demand und Price Action."
+cover-image: assets/cover.png
+css: theme/style.css
+toc: true
+toc-depth: 2
+toc-title: "Inhaltsverzeichnis"
+crossrefYaml: "crossref.yaml"
+...
