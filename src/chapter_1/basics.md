@@ -28,7 +28,7 @@ Das erklärt auch, warum Preis manchmal minutenlang seitwärts läuft – und da
 
 **Orderflow** bezeichnet die tatsächliche Abfolge von Kauf- und Verkaufsaufträgen, die gerade aktiv auf das Orderbuch treffen – also der „Druck“, der den Markt in Bewegung setzt. Wenn auf der Käuferseite viele Market Orders in kurzer Zeit auf limitierte Verkaufsangebote treffen, spricht man von bullischem Orderflow. Umgekehrt erzeugen aggressive Verkäufe bearischen Orderflow.
 
-### Imbalance – das echte Startsignal
+### Imbalance – das echte Startsignal {#subsec:imbalance}
 
 Wenn Market Orders eine Seite des Orderbuchs aggressiv durchbrechen, entsteht _Imbalance_ – also ein sichtbares Ungleichgewicht zwischen Angebot und Nachfrage.  
 Diese Imbalance ist nicht nur ein Moment der Bewegung, sondern ein Signal für potenzielle Folgeaktivität:  

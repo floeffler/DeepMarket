@@ -1,4 +1,4 @@
-## Markstruktur und Swings
+## Markstruktur und Swings {#sec:market_structure}
 
 Hier erfährst du, was ein _Swing High_ oder _Swing Low_ wirklich ist, wie du zwischen interner und externer Struktur unterscheidest - und warum du nicht jedem Zucken des Preises hinterherrennen solltest. Struktur ist die Sprache des Marktes. Und nur wer erkennt, welche Ebene gerade spricht, versteht, ob der nächste Move bedeutungslos ist – oder richtungsentscheidend.
 
@@ -154,7 +154,7 @@ Ein schwacher Swingpunkt:
   Fokus statt Fülle: Nicht jeder Hoch- oder Tiefpunkt zählt. Nur wer erkennt, welche Swings wirklich tragen, kann die Struktur des Marktes lesen – statt ihr hinterherzulaufen.
 :::
 
-### Interne vs. Externe Struktur
+### Interne vs. Externe Struktur {#subsec:intern_vs_extern}
 
 Wenn du den Markt lesen willst wie ein Buch, musst du zuerst seine Grammatik verstehen. Und eine seiner grundlegendsten Regeln lautet: Nicht jede Bewegung hat das gleiche Gewicht.
 
@@ -197,7 +197,7 @@ Aber du bewertest sie immer im Kontext der externen Struktur. Du willst keinen K
 
 #### Rekursive Struktur & Zeitebenen
 
-Struktur ist kein fixer Rahmen. Sie ist relativ zur Perspektive, die du einnimmst. Was auf einem Zeitrahmen extern ist, ist auf dem nächsten bereits Teil der internen Struktur. Und umgekehrt.
+Struktur ist kein fixer Rahmen. Sie ist relativ zur Perspektive, die du einnimmst. Was auf einem Zeitrahmen extern ist, ist auf dem nächsten bereits Teil der internen Struktur. Und umgekehrt. Diese Betrachtung fokussiert auf die strukturelle Verschachtelung durch Swingpunkte – also die Entscheidungsebenen, die Trendrichtung und Brüche markieren.
 
 Ein Trend auf dem Daily besteht aus Swings auf dem 4H. Ein Swing auf dem 4H besteht aus Swings auf dem 1H. Und so weiter – rekursiv, verschachtelt, vernetzt. Deshalb kannst du Struktur nicht global definieren, sondern immer nur im Verhältnis zu deinem Fokuszeitrahmen. Für den 4H-Chart ist die sichtbare Swingstruktur deine externe Struktur. Alles, was sich innerhalb eines dieser Swings bewegt – z. B. auf dem 15min-Chart – ist deine interne Struktur. Was das bedeutet:
 

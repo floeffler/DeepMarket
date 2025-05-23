@@ -29,7 +29,7 @@ Doch diese Einteilung ist nur eine visuelle Annäherung. Sie hilft, den Markt zu
 Statt uns auf Extrempunkte zu verlassen, können wir Ranges objektiver durch das Volume Profile analysieren. Hier liegt der Fokus nicht auf Linien, sondern auf Aktivität:
 
 - **Value Area (VA)**: Bereich, in dem ca. 70 % des Volumens gehandelt wurde – das Zentrum des Gleichgewichts
-- **Point of Control (POC)**: Preis mit dem höchsten Volumen – der sogenannte faire Preis
+- **Point of Control (POC)**: Preis mit dem höchsten Volumen – der faire Preis (vgl. [@sec:fair_price])
 - **Value Area High/Low (VAH/VAL)**: Die oberen und unteren Grenzen dieser akzeptierten Zone
 
 Die **Value Area** zeigt dir, wo der Markt wirklich Zeit verbracht hat. Nicht wo der Chart am höchsten oder tiefsten war – sondern wo das Spiel stattgefunden hat. Sie bezeichnet in der Regel den Preisbereich, in dem etwa 70 % des gesamten Handelsvolumens stattgefunden haben. Genauer genommen liegt der statistische Kern eigentlich bei 68 % – was dem Bereich einer Standardabweichung in einer Normalverteilung entspricht. In der Praxis hat sich jedoch der „70 %-Korridor“ als handlungsorientierter Standard etabliert – ein pragmatischer Rahmen, nicht ein mathematischer Absolutwert.
@@ -81,12 +81,12 @@ Eine Range wird erst zur Zone, wenn der Markt sie verlässt – mit Kraft, Richt
 
 ### RIMC - Structur statt Bewegung
 
-Was wir als Trend sehen, ist kein einzelner Move – sondern das Ergebnis eines strukturellen Prozesses (siehe [@fig:rimc]). Der Markt handelt nicht in Linien, sondern in Entscheidungen. Und jede Entscheidung durchläuft denselben Ablauf:
+Was wir als Trend sehen, ist kein einzelner Move – sondern das Ergebnis eines strukturellen Prozesses (siehe [@fig:rimc]). Der Markt handelt nicht in Linien, sondern in Entscheidungen (siehe [@sec:market_structure]). Und jede Entscheidung durchläuft denselben Ablauf:
 
 - **(R)ange**: Jede neue Bewegung beginnt im Gleichgewicht.
 Der Markt akzeptiert ein Preisniveau und pendelt zwischen Angebot und Nachfrage. Diese Range ist der Ausgangspunkt – sie definiert, wo die nächsten Reaktionen stattfinden werden.
 
-- **(I)nitiation**: Dann kommt der Ausbruch. Ein High oder Low wird gebrochen, Bewegung setzt ein. Doch dieser Bruch ist noch keine Bestätigung. Der Impuls zeigt zwar Richtung – aber ohne Rückkehr bleibt er nur ein Vorstoß.
+- **(I)nitiation**: Dann kommt der Ausbruch (siehe [@subsec:imbalance]). Ein High oder Low wird gebrochen, Bewegung setzt ein. Doch dieser Bruch ist noch keine Bestätigung. Der Impuls zeigt zwar Richtung – aber ohne Rückkehr bleibt er nur ein Vorstoß.
 
 - **(M)itigation**: Der entscheidende Punkt ist die Rückkehr.
 Der Markt kehrt zur alten Range oder Zone zurück, interagiert mit ihr – und entscheidet sich erneut. Erst diese Reaktion macht aus einem Move eine strukturierte Bewegung. _Eine verlassene Range ist nicht erledigt. Solange sie nicht mitigiert ist, bleibt sie aktiv – als Reaktionszone, als Prüfstein, als Korrekturziel._
@@ -125,9 +125,7 @@ In diesen Fällen ist es wahrscheinlicher, dass ein späterer Retest nicht hält
 Wir greifen das Konzept der Frische später im Buch ausführlich auf, wenn wir valide Zonen bewerten lernen.
 
 #### Verschachtelung – Struktur ist fraktal
-Was auf dem _H1_ wie ein sauberer Trend aussieht, ist auf dem M5 oft nur eine Serie kleiner Ranges mit eigenem RIMC-Zyklus.
-Diese Wiederholung ist kein Zufall – sie ist fraktal.
-Das bedeutet: Die gleiche strukturelle Logik gilt auf allen Zeiteinheiten – von der Minute bis zum Monatschart.
+Was auf dem _H1_ wie ein sauberer Trend aussieht, ist auf dem M5 oft nur eine Serie kleiner Ranges mit eigenem RIMC-Zyklus. Diese Wiederholung ist kein Zufall – sie ist fraktal (vgl. [@subsec:intern_vs_extern]). Das bedeutet: Die gleiche strukturelle Logik gilt auf allen Zeiteinheiten – von der Minute bis zum Monatschart. Wir betrachten die rekursive Natur des Marktes aus Sicht von Ranges die sich fraktal wiederholen und durch Mitigation neue Struktur erzeugen.
 
 Der Markt bewegt sich nicht einfach. Er baut Struktur – immer wieder, rekursiv und skaliert. Er formt Gleichgewicht, bricht es, kehrt zurück, setzt fort – unabhängig von der Zeiteinheit (siehe [@fig:rimc_multi_tf]).
 
