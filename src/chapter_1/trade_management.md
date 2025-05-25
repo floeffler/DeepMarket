@@ -123,6 +123,7 @@ denn dort zählt nicht, was hätte funktionieren können, sondern was du wirklic
 :::
 
 Sobald du im Trade bist, zählt vor allem eines: _Was machst du jetzt – wenn du nicht planst, sondern fühlst?_ Denn solange du keine klaren Regeln hast, reagierst du – auf Kerzen, Geräusche, Impulse, Gefühle. Und je länger der Trade offen ist, desto größer wird der mentale Druck. Das lässt sich entschärfen – durch feste Regeln wie:
+
 - Teilgewinne bei 1:1 oder 2:1
 - Stop auf Break-Even nach Bestätigung
 - Re-Entry nur bei erneutem Setup
@@ -143,6 +144,7 @@ Ein gutes Setup ist kein Versprechen. Es ist eine Wahrscheinlichkeit – ein beg
 Und auch wenn du hundert Mal dieselbe Formation siehst: _Der Markt schuldet dir nichts._
 
 Du musst deinem Setup vertrauen – aber nicht blind. Du musst dem Prozess folgen – aber nicht erwarten, dass der Markt sich daran hält. Der Unterschied zwischen einem gesunden Trend und einem umkehrbereiten Markt liegt oft nicht in der Form, sondern im Verhalten:
+
 - Kommt der Preis impulsiv zurück oder strukturiert?
 - Werden neue Hochs nur noch knapp erreicht – oder mit Überzeugung?
 - Reagiert der Markt an alten Zonen – oder durchbricht er sie ohne Widerstand?

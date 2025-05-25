@@ -17,6 +17,7 @@ Handel nicht das Setup. Versteh das Spiel.
 Dieser Satz begleitet mich, seit ich aufgehört habe, Muster zu suchen – und angefangen habe, Zusammenhänge zu verstehen. Ich habe diesen Leitfaden in erster Linie für mich selbst geschrieben – um meinen Gedanken Struktur zu geben. Wenn er dir hilft, deinen eigenen Weg klarer zu sehen: umso besser. Deep Market erhebt keinen Anspruch auf Vollständigkeit.
 Aber es versucht, möglichst viele der grauen Stellen zu beleuchten – weil man nur dann tief tauchen kann, wenn das Wasser klar ist. Und wenn man weiß, wo es dunkel wird.
 Nimm es als das, was es sein soll:
+
 - Ein Kompass. Kein Navi.
 - Ein Werkzeug. Kein Shortcut.
 - Ein Anfang.

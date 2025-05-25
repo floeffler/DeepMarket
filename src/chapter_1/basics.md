@@ -11,7 +11,11 @@ Eine _Limit Order_ dagegen ist passiv. Sie sagt: „Ich will kaufen oder verkauf
 > Stell dir das wie einen Flohmarkt vor. Ein Käufer mit einer Market Order geht zu einem Stand und sagt: „Ich nehm’s! Was auch immer es kostet. “Ein Käufer mit einer Limit Order bleibt ruhig sitzen und sagt: „Ich zahle genau 10 Euro. Wer mir das bringt, kriegt den Deal.“
 
 ### Wie entsteht Bewegung?
-Solange sich Käufer und Verkäufer mit ihren Limit Orders in Balance befinden, passiert – nichts.
+Solange sich Käufer und Verkäufer mit ihren Limit Orders in Balance befinden, passiert – nichts. 
+
+Ein Kauf oder Verkauf allein reicht nicht aus, damit ein Trade entsteht. Jeder Marktorder – also jeder aktive Kaufwunsch – muss eine passende passive Gegenseite finden: eine Limit-Order, die bereit ist, zu diesem Preis zu verkaufen.
+Man kann sich das **Orderbuch** wie eine Speisekarte vorstellen: Als aktiver Käufer bestellst du – aber gekocht wird nur, wenn das Gericht (sprich: ein passendes Verkaufsangebot) auch verfügbar ist. Ist das Menü leer oder das gewünschte Gericht nicht verfügbar, musst du dich mit teureren Angeboten zufriedengeben – und der Preis steigt. 
+
 Erst wenn eine Seite bereit ist, aggressiv über das aktuelle Preisniveau hinaus zu kaufen oder zu verkaufen, entsteht Bewegung. Dieses Prinzip zeigt sich deutlich im Orderbuch eines typischen Marktes (siehe [@fig:orderbook]). Es verdeutlicht, wie sich auf der linken Seite die Limit-Kauforders („Bids“) und auf der rechten Seite die Limit-Verkaufsorders („Asks“) aufbauen. Der Preis selbst steht genau in der Mitte – und bewegt sich nur dann, wenn eine Market Order eine der Seiten aktiv durchdringt. Je größer die Fläche, desto mehr passive Orders – und desto mehr „Kraft“ braucht es, um durchzubrechen. Besonders auffällig in der Grafik sind die Stufen oder Plateaus: Sie zeigen sogenannte Buy- oder Sell Walls – also Bereiche, in denen besonders viele Limit Orders liegen. Diese wirken im Chart wie unsichtbare Barrieren, gegen die der Preis „anläuft“.
 Nur wenn genug aktive Orders auf eine Seite treffen, kann der Preis diese Mauer durchbrechen.
 
@@ -66,5 +70,5 @@ Diese Dynamik – wer den Preis wirklich bewegt und wer ihn aufhält – ist der
 - Der Preis wird nicht durch „mehr Käufer“ bewegt, sondern durch Market Orders, die bereit sind, das Orderbuch zu durchbrechen
 - Limit Orders stoppen, Market Orders bewegen
 - Balance = Seitwärtsbewegung → Imbalance = impulsive Bewegung
-- Deine Aufgabe ist es, zu erkennen:  Wo stehen passive Orders? Wo kann ein Durchbruch passieren?
+ Deine Aufgabe ist es, zu erkennen:  Wo stehen passive Orders? Wo kann ein Durchbruch passieren?
 :::

@@ -125,34 +125,16 @@ Viele Trader zeichnen brav ihre _HHs_ und _HLs_ – oder markieren jede Spitze a
 Wer in seiner Analyse keine Prioritäten setzt, tappt in die Falle: Er reagiert auf alles – aber versteht nichts. Die Kunst liegt nicht darin, mehr zu sehen – sondern zu erkennen, welche Punkte relevant sind. 
 
 ::: {.remark}
-  Struktur zu lesen bedeutet: Nicht zu raten, was passiert – sondern zu wissen, wo es drauf ankommt.
-:::
-
-::: {.takeaway}
-**Takeaways:**
-
-Ein starker Swingpunkt:
-- entsteht wenn er einen Gegenspieler bricht oder den Trend verteidigt
-- führt zu einem strukturellen Fortschritt im Markt
-- wird bestätigt durch:
-- den Bruch eines schwachen Gegners
-- und ggf. durch Verteidigung beim Rücklauf
-- im Aufwärtstrend: z. B. ein _HL_, das zu einem _HH_ führt und anschließend hält
-- im Abwärtstrend: z. B. ein _LH_, das ein neues _LL_ einleitet und erhalten bleibt
-- bedeutet: Der Trend lebt
-
-Ein schwacher Swingpunkt:
-- scheitert am Bruch eines starken Gegners oder bleibt ohne Folge
-- markiert nur eine optische Bewegung – keine Entscheidung
-- verliert seine Bedeutung, wenn er selbst gebrochen wird
-- im Aufwärtstrend: z. B. ein _HH_, das keinen strukturellen Bruch erzeugt
-- im Abwärtstrend: z. B. ein _LL_, das nicht zu neuer Schwäche führt
-- bedeutet: Der Punkt ist Kontext – kein Anker
-:::
-
-::: {.remark}
   Fokus statt Fülle: Nicht jeder Hoch- oder Tiefpunkt zählt. Nur wer erkennt, welche Swings wirklich tragen, kann die Struktur des Marktes lesen – statt ihr hinterherzulaufen.
 :::
+
+
+::: {.takeaway}
+**Takeaway**
+
+Ein starker Swingpunkt entscheidet – er bricht Struktur oder verteidigt sie. Ein schwacher Swingpunkt deutet nur Bewegung an, hat aber keine Folgen im Trend. Der Unterschied liegt in der Wirkung: Fortschritt versus Kontext.
+:::
+
 
 ### Interne vs. Externe Struktur {#subsec:intern_vs_extern}
 

@@ -1,6 +1,9 @@
 ---
-title: "Deep Market"
-subtitle: "Weil blindes Raten kein Setup ist"
+title: 
+- type: main
+  text: Deep Market
+- type: subtitle
+  text: Weil blindes Raten kein Setup ist
 author: "Falko Löffler"
 lang: de
 rights: "© 2025 Falko Löffler - CC BY-NC-ND 4.0"

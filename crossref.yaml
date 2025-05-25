@@ -1,3 +1,7 @@
 figureTitle: "Abbildung"
 figPrefix:
   - "Abb."
+secPrefix: 
+  - "Kap."
+linkReferences: true
+numberSections: true
