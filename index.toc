@@ -7,3 +7,4 @@ src/chapter_1/market_structure.md
 src/chapter_1/ranges.md
 src/chapter_1/trade_management.md
 src/chapter_2/intro.md
+src/chapter_2/market_structure.md
