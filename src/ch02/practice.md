@@ -126,6 +126,8 @@ Distribution ist das Gegenteil – aber nicht weniger strategisch. Hier geben Ma
 - Volumen konzentriert sich in einem engen oberen Bereich
 - Funktional: Der Markt verliert Interesse – ohne sofort zu kippen.
 
+**Funktional**: Der Markt verkauft – ohne den Anschein von Schwäche zu erzeugen.
+
 #### Warum ist das wichtig?
 Du musst nicht sicher wissen, ob es sich um eine klassische Accumulation oder Distribution handelt. Was du erkennen solltest, ist das Verhalten: _Wird hier aktiv gesammelt – oder abgegeben?_
 Und: _Reagiert der Markt darauf – oder ignoriert er es?_
