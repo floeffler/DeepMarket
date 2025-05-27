@@ -20,11 +20,14 @@ Write-Host "Building $combinedFile from $tocFile ..."
 
 # combine content files
 Get-Content $tocFile | ForEach-Object {
-    if (Test-Path $_) {
-        Add-Content $combinedFile "`n<!-- $_ -->`n"
-        Get-Content $_ | Add-Content $combinedFile
-    } else {
-        Write-Host "File not found: $_" -ForegroundColor Yellow
+    $line = $_.Trim()
+    if (-not [string]::IsNullOrWhiteSpace($line)) {
+        if (Test-Path $line) {
+            Add-Content $combinedFile "`n<!-- $line -->`n"
+            Get-Content $line | Add-Content $combinedFile
+        } else {
+            Write-Host "File not found: $line" -ForegroundColor Yellow
+        }
     }
 }
 
