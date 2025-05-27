@@ -21,3 +21,6 @@ Nimm es als das, was es sein soll:
 - Ein Kompass. Kein Navi.
 - Ein Werkzeug. Kein Shortcut.
 - Ein Anfang.
+
+#### Wichtiger Hinweis
+Im Buch findest du an mehreren Stellen sogenannte Hypothesen. Sie basieren auf struktureller Beobachtung, Logik und Erfahrung – nicht auf universeller Wahrheit. Sie sind dazu da, dir Orientierung zu geben, nicht Gewissheit. Trading ist ein Spiel mit Wahrscheinlichkeiten – kein System mit Beweisen.

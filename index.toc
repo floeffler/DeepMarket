@@ -1,10 +1,9 @@
 src/copyright.md
 src/preamble.md
-src/chapter_1/intro.md
-src/chapter_1/basics.md
-src/chapter_1/fair_price.md
-src/chapter_1/market_structure.md
-src/chapter_1/ranges.md
-src/chapter_1/trade_management.md
-src/chapter_2/intro.md
-src/chapter_2/market_structure.md
+
+src/ch02/intro.md
+src/ch02/price.md
+src/ch02/orders.md
+src/ch02/liquidity.md
+src/ch02/practice.md
+src/ch02/conclusion.md

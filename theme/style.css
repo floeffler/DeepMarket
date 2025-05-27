@@ -33,10 +33,24 @@ p {
   text-justify: inter-word; /* besserer Wortabstand in EPUB */
 }
 
+blockquote {
+  margin: 1.2em 0;
+  padding-left: 1em;
+  border-left: 4px solid #ff6f61;
+  font-style: italic;
+}
+
 .remark {
   margin: 1.2em 0;
   padding-left: 1em;
   border-left: 4px solid #ff6f61;
+  font-style: italic;
+}
+
+.hypothesis {
+  margin: 1.2em 0;
+  border-top: 4px solid #ff6f61;
+  border-bottom: 4px solid #ff6f61;
   font-style: italic;
 }
 
@@ -65,4 +79,12 @@ img {
   max-width: 100%;
   height: auto;
   margin: 1em auto;
+}
+
+.subtitle {
+  display: block;
+  font-size: 1rem;
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+  font-style: italic;
 }
