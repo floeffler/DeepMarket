@@ -7,3 +7,7 @@ src/ch02/orders.md
 src/ch02/liquidity.md
 src/ch02/practice.md
 src/ch02/conclusion.md
+
+src/ch03/intro.md
+src/ch03/intention.md
+src/ch03/swings.md

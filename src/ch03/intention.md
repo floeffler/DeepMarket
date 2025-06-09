@@ -2,7 +2,7 @@
 
 Viele Trader suchen Struktur – als ob es eine feste Vorlage gäbe. Ein Higher High, ein Lower Low, eine Trendlinie – fertig ist das Setup. Doch so funktioniert der Markt nicht. Struktur entsteht nicht auf dem Papier, sondern im Verhalten echter Marktteilnehmer.
 
-Das erklärt auch, warum Pattern so verlockend sind: Sie geben dem Chaos einen Namen. Doch ein Double Top ist keine Einladung zum Short. Eine Head-&-Shoulders-Formation ist kein Signal. Sie sehen oft gut aus – _weil der Markt dort bereits etwas verarbeitet hat_. Aber sie sagen dir nichts über das Jetzt.
+Das erklärt auch, warum Pattern so verlockend sind: Sie geben dem Chaos einen Namen. Doch ein Double Top ist keine Einladung zum Short. Eine Head-&-Shoulders-Formation ist kein Signal. Sie sehen oft gut aus – _weil der Markt dort bereits reagiert hat_. Aber sie sagen dir nichts über die Absicht, die jetzt wirksam wird.
 
 > Struktur ist nicht das, was du erkennst – sondern das, was sich durchgesetzt hat. Sie ist das fertige Ergebnis von Aktion und Reaktion – der sichtbare Abdruck dessen, was bereits entschieden wurde.
 
