@@ -48,8 +48,16 @@ Ein echter Bruch:
 
 > Ein Bruch ohne Folgereaktion ist kein Trendstart – sondern nur ein Ausschlag.
 
+Für einen **gescheiterten Bruch** wird oft der Begriff _Liquidity Sweep_ verwendet. Dieser stammt aus dem ICT-Kosmos und suggeriert, der Markt würde gezielt Trader „ausstoppen“. In Wahrheit steckt dahinter ein bekanntes Konzept: Der Preis überschreitet ein altes Hoch oder Tief, löst dort liegende Stop-Orders aus – und kehrt anschließend impulsiv zurück. Funktional betrachtet handelt es sich um ein _Swing Failure Pattern_ (**SFP**) - also einen Bruch ohne Akzeptanz, oft sichtbar auf dem LTF, während der HTF intakt bleibt (z. B. 4H macht neues Hoch, aber Daily bleibt bearish). Wichtig:
+
+- Der Preis „holt“ nicht aktiv Liquidität. Er reagiert auf Zonen mit hoher Orderdichte.
+- Dieses Verhalten ist normale Marktmechanik – keine Absicht, keine Manipulation.
+- Die Reaktion hängt vom Kontext ab: Trend, Struktur, Volumen, Timeframe.
+
+Wir verzichten im Buch bewusst auf den Begriff Liquidity Sweep. Stattdessen beschreiben wir das Verhalten _neutral und funktional_ – als das, was es ist: Ein _Fehlbruch mit Reversal_. Keine Akzeptanz oberhalb oder unterhalb des Extrempunkts. Ein klassisches Swing Failure Pattern (_SFP_).
+
 #### Wann ist ein Trend etabliert?
-Der Trader Bernd Skorupinski schlägt vor, dass ein Trend dann als etabliert gilt, wenn sich
+Der Trader _Bernd Skorupinski_, einer der erfolgreichsten deutschen Trader und Gründer des Online Trading Campus, schlägt vor, dass ein Trend dann als etabliert gilt, wenn sich
 
 - mindestens drei Higher Highs (_HH_) und drei Higher Lows (_HL_) für einen Aufwärtstrend, bzw.
 - drei Lower Lows (_LL_) und drei Lower Highs (_LH_) für einen Abwärtstrend
@@ -63,7 +71,6 @@ Diese Denkweise lässt sich gut mit dem Konzept der Elliott-Wellen verbinden: Do
 > Die Botschaft: Ein einzelner Bruch macht noch keinen Trend. Ein Trend zeigt sich durch Wiederholung – nicht durch Hoffnung.
 
 #### Übergänge erkennen
-
 Trends wechseln nicht sprunghaft. Zwischen einem Aufwärts- und einem Abwärtstrend liegt häufig eine **Seitwärtsphase**, in der sich der Markt neu organisiert. Der Preis pendelt dabei zwischen markanten Hochs und Tiefs – neue Strukturpunkte entstehen nicht. Solche Phasen werden auch als Konsolidierung bezeichnet. Erst wenn ein vorheriges Tief oder Hoch **signifikant per Schlusskurs gebrochen** wird, ist ein Übergang abgeschlossen. In [@fig:swings] wird dies sehr deutlich. Der Preis pendelt zwischen einer Widerstands- und Unterstützungszone bevor die Abwärtsstruktur gebrochen wird und die neue Trendrichtung entgültig etabliert ist. 
 
 > Ein Bruch zählt nur, wenn er ein strukturell relevantes Hoch oder Tief **mit Schlusskurs überschreitet** – nicht durch einen kurzen Docht.
@@ -89,7 +96,6 @@ Deshalb ist es wichtig, Trendstrukturen immer **mehrzeitlich** zu denken – was
 
 
 ### Impuls & Korrektur – Zwei Seiten derselben Struktur
-
 Der Markt bewegt sich in Wellen – nicht als starres Muster, sondern als Ausdruck funktionaler Dynamik. Jeder Vorstoß erzeugt eine Reaktion, jeder Bruch eine Prüfung. Aus dieser Abfolge entstehen **Impuls und Korrektur**.
 
 Ein Trend ist mehr als nur eine Aneinanderreihung von Hochs und Tiefs – er entsteht durch das Zusammenspiel dieser beiden Kräfte. Erst ihre Wechselwirkung erzeugt Struktur, Richtung und Aussagekraft.
@@ -121,7 +127,6 @@ Falsche Impulse dagegen wirken nur kurzfristig bedeutungsvoll – sie entstehen 
 Ein gescheiterter Impuls in eine Richtung kann der Auslöser für eine starke Bewegung in die Gegenrichtung sein – weil Marktteilnehmer gezwungen werden, ihre Positionen aufzulösen.
 
 #### Korrekturen sind komplex
-
 In der Elliott-Theorie haben Impulsbewegungen immer eine klar definierte Struktur: Sie bestehen aus **fünf Teilwellen**. Korrekturen hingegen können unterschiedlichste Formen annehmen – von simplen ABC-Bewegungen bis zu komplexen Mustern wie Flats, ZigZags oder Triangles. Der Punkt ist: Korrekturen sind vielfältig. Und genau das macht sie schwer greifbar.
 
 Wichtig ist: Auch in einer Korrektur kann es impulsive Bewegungen geben – zum Beispiel in der A- oder C-Welle eines ZigZags. Das ändert aber nichts an der übergeordneten Einordnung: Solange kein neuer dominanter Impuls mit Folgebewegung sichtbar wird, bleibt es eine Korrektur.
@@ -138,12 +143,18 @@ Was wie ein Impuls aussieht, kann in einem größeren Kontext nur Teil einer Kor
 #### Nicht jeder Impuls ist der Anfang
 Nicht jede impulsive Bewegung markiert den Beginn eines neuen Trends – manchmal ist sie genau das Gegenteil. In den Wyckoff-Phasenmodellen zeigt sich dieses Prinzip immer wieder: Was wie ein neuer Impuls aussieht, ist in Wirklichkeit Teil einer Distribution – ein letzter Schub, ausgelöst durch späte Trader, den größere Marktteilnehmer gezielt für den Exit nutzen. Umgekehrt kann eine scheinbare Schwächephase auch eine Re-Accumulation sein, bevor der Markt erneut anzieht.
 
-Auch das bekannte Spring- oder Upthrust-Szenario folgt diesem Muster: Eine impulsive Bewegung ohne Substanz, die schnell zurückgeholt wird. Sie war nie als Trendstart gedacht – sondern diente nur der Liquiditätsbeschaffung. 
+Auch das bekannte Spring- oder Upthrust-Szenario folgt diesem Muster: Eine impulsive Bewegung ohne Substanz, die schnell zurückgeholt wird. Sie war nie als Trendstart gedacht – sondern diente nur der Liquiditätsbeschaffung.
 
-Ein ähnliches Phänomen findet sich in der Elliott-Theorie: Die fünfte Welle eines Impulses ist oft die schwächste. Sie entsteht nicht mehr aus echter Absicht, sondern aus dem Nachzüglerverhalten der Masse. Die Folge: Kein neuer Trend, sondern ein nahender Abschluss – und häufig der Übergang in eine größere Korrektur. 
+Ein ähnliches Phänomen findet sich in der Elliott-Theorie: Die fünfte Welle eines Impulses ist oft die schwächste. Sie entsteht nicht mehr aus echter Absicht, sondern aus dem Nachzüglerverhalten der Masse. Die Folge: Kein neuer Trend, sondern ein nahender Abschluss – und häufig der Übergang in eine größere Korrektur.
 
 > Es reicht nicht, impulsive Bewegungen zu erkennen. Du musst verstehen, wer sie erzeugt – und ob jemand folgt. 
 
+Und genau hier kommt der funktionale Blick ins Spiel: Ein echter Impuls bricht Struktur. Aber dieser Bruch muss **auf dem höchsten Timeframe stattfinden, auf dem die zugrunde liegende Struktur eindeutig erkennbar ist**. Passiert der vermeintliche Breakout nur auf einem niedrigeren Timeframe – und ist er im größeren Bild nur ein Docht oder eine einzelne Kerze ohne Bestätigung – dann handelt es sich nicht um einen strukturellen Bruch, sondern mit hoher Wahrscheinlichkeit um ein Swing Failure Pattern (_SFP_).
+
+> Ein Bruch ist nur dann valide, wenn er auf der Zeitebene geschieht, auf der die Struktur klar identifizierbar ist.
+
+Ein SFP ist keine Einladung zum Trendwechsel – sondern oft nur ein Richtungswechsel zurück zur Balance. Der Markt zeigt damit, dass das vorherige Extrem nicht akzeptiert wurde – aber wohin die Reise danach geht, ist offen. In vielen Fällen ist ein SFP der Auslöser für eine Korrekturbewegung zurück zum fairen Preis – oder in eine Range, in der neue Entscheidungen vorbereitet werden. Erst wenn diese Bewegung eigene Struktur aufbaut, kann daraus ein echter Richtungswechsel entstehen.
+
+> Merksatz: Ein SFP beendet den Impuls – nicht den Trend.
+
 Impuls und Korrektur sind keine Muster – sondern Funktionseinheiten. Wer sie erkennt, versteht den Rhythmus des Marktes. Nur wer Impuls und Korrektur im Kontext liest, handelt nicht gegen den Markt – sondern mit ihm.
-
-
