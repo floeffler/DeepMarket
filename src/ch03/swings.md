@@ -48,13 +48,38 @@ Ein echter Bruch:
 
 > Ein Bruch ohne Folgereaktion ist kein Trendstart – sondern nur ein Ausschlag.
 
-Für einen **gescheiterten Bruch** wird oft der Begriff _Liquidity Sweep_ verwendet. Dieser stammt aus dem ICT-Kosmos und suggeriert, der Markt würde gezielt Trader „ausstoppen“. In Wahrheit steckt dahinter ein bekanntes Konzept: Der Preis überschreitet ein altes Hoch oder Tief, löst dort liegende Stop-Orders aus – und kehrt anschließend impulsiv zurück. Funktional betrachtet handelt es sich um ein _Swing Failure Pattern_ (**SFP**) - also einen Bruch ohne Akzeptanz, oft sichtbar auf dem LTF, während der HTF intakt bleibt (z. B. 4H macht neues Hoch, aber Daily bleibt bearish). Wichtig:
+Für einen **gescheiterten Bruch** wird oft der Begriff _Liquidity Sweep_ verwendet. Dieser stammt aus dem ICT-Kosmos und suggeriert, der Markt würde gezielt Trader „ausstoppen“. In Wahrheit steckt dahinter ein bekanntes Konzept: Der Markt überschreitet ein altes Hoch oder Tief, löst dort liegende Stop-Orders aus – doch der entstehende Druck wird von Limit Orders (z. B. _Iceberg-Orders_) **absorbiert**. Das Preislevel wird dadurch **verteidigt**: Die Kraft reicht nicht aus, um nachhaltige Akzeptanz über dem Extrem zu erzeugen. Der Markt kehrt daraufhin impulsiv in die vorherige Struktur zurück. 
 
-- Der Preis „holt“ nicht aktiv Liquidität. Er reagiert auf Zonen mit hoher Orderdichte.
-- Dieses Verhalten ist normale Marktmechanik – keine Absicht, keine Manipulation.
-- Die Reaktion hängt vom Kontext ab: Trend, Struktur, Volumen, Timeframe.
+Funktional betrachtet handelt es sich um ein _Swing Failure Pattern_ (**SFP**) - also einen Bruch ohne Akzeptanz, oft sichtbar auf dem LTF, während der HTF intakt bleibt (siehe [@fig:SFP]). Oder wie Andreas Cimi es sinngemäß formuliert:
+
+> „Es gibt keine Liquidity Sweeps. Der Markt testet eine Region – und wird dort von anderen verteidigt.“
+
+Dabei ist es wichtig zu verstehen: _Liquidität existiert nicht nur an Hoch- und Tiefpunkten_, sondern im gesamten Markt. Besonders dort, wo viele Transaktionen stattfinden – rund um den sogenannten fairen Preis. Ein Blick ins Volume Profile zeigt: Die meisten Orders werden nicht an den Extremen gefüllt, sondern irgendwo in der Mitte, wo Akzeptanz herrscht.
+
+Wenn ein Ausbruch fehlschlägt, kann das zwei funktionale Gründe haben:
+
+- **Ermüdung**: Der Ausbruch findet keine Anschlusskäufer – die Bewegung stirbt mangels Interesse.
+- **Verteidigung**: Limit-Seller absorbieren aktiv den Orderflow – etwa über Iceberg- oder Layering-Techniken.
+
+Die Vorstellung, jemand würde Milliarden bewegen, nur um ein paar Retail-Stops zu holen, ist nicht nur unrealistisch – sie verkennt die tatsächliche Marktmechanik. Für viele Trader wirkt ein solches Verhalten wie eine „gezielte Falle“. In Wahrheit offenbart sich hier nur, wie eng Preisverhalten und psychologische Trigger (z. B. Breakout-Trading) zusammenhängen. Wer den Kontext ignoriert, interpretiert Absicht, wo nur Reaktion war.
+
+> Frage zum Mitnehmen: _Warum legst du deinen Stop dorthin, wo der Markt Support oder Resistance testet?_ Weil du denkst, dort sei deine Idee invalidiert? Weil du gelernt hast, "da muss er drehen"? 
+
+Wer seinen Stop an offensichtliche Strukturpunkte legt, vertraut darauf, dass diese Zonen halten. Doch gerade dort werden Entscheidungen provoziert: Eintritte, Exits, Panik, Reversals. Wenn du deinen Stop in diese Zone legst, positionierst du dich dort, wo Reibung entsteht – wo sich der Konflikt zwischen Käufern und Verkäufern zuspitzt. Und genau dort kommt es oft zu gescheiterten Bewegungen.
+
+> "Place your entry where others have their stop loss – and watch what happens." (David Paul)
+
+Was ich aus eigener Erfahrung gelernt habe: _Platzier deinen Entry dort, wo die Entscheidung schon gefallen ist._ enn erst wenn der Markt gezeigt hat, wer dominiert, beginnt echtes Risiko mit kalkulierbarem Vorteil. Wichtig:
+
+- Der Preis „holt“ nicht aktiv Liquidität. Er _reagiert_ auf Zonen mit hoher Orderdichte.
+- Dieses Verhalten ist _normale Marktmechanik_ – keine Absicht, keine Manipulation.
+- Die Reaktion hängt vom _Kontext_ ab: Trend, Struktur, Volumen, Timeframe.
 
 Wir verzichten im Buch bewusst auf den Begriff Liquidity Sweep. Stattdessen beschreiben wir das Verhalten _neutral und funktional_ – als das, was es ist: Ein _Fehlbruch mit Reversal_. Keine Akzeptanz oberhalb oder unterhalb des Extrempunkts. Ein klassisches Swing Failure Pattern (_SFP_).
+
+![Swing Failure Pattern (SFP) im Kontext: Auf dem 4H-Chart erscheint der Bruch des Hochs nur als Docht, auf dem 30m-Chart wird die interne Struktur sichtbar. Limitierte Gegenorder (z. B. Iceberg Orders) absorbieren den Kaufdruck – der Markt kehrt impulsiv zurück.](../../assets/SFP.png){#fig:SFP}
+
+
 
 #### Wann ist ein Trend etabliert?
 Der Trader _Bernd Skorupinski_, einer der erfolgreichsten deutschen Trader und Gründer des Online Trading Campus, schlägt vor, dass ein Trend dann als etabliert gilt, wenn sich
@@ -127,7 +152,7 @@ Falsche Impulse dagegen wirken nur kurzfristig bedeutungsvoll – sie entstehen 
 Ein gescheiterter Impuls in eine Richtung kann der Auslöser für eine starke Bewegung in die Gegenrichtung sein – weil Marktteilnehmer gezwungen werden, ihre Positionen aufzulösen.
 
 #### Korrekturen sind komplex
-In der Elliott-Theorie haben Impulsbewegungen immer eine klar definierte Struktur: Sie bestehen aus **fünf Teilwellen**. Korrekturen hingegen können unterschiedlichste Formen annehmen – von simplen ABC-Bewegungen bis zu komplexen Mustern wie Flats, ZigZags oder Triangles. Der Punkt ist: Korrekturen sind vielfältig. Und genau das macht sie schwer greifbar.
+In der Elliott-Theorie haben Impulsbewegungen immer eine klar definierte Struktur: Sie bestehen aus **fünf Teilwellen**. Korrekturen hingegen können unterschiedlichste Formen annehmen – von simplen ABC-Bewegungen bis zu komplexen Mustern wie wie Flats (seitwärts), ZigZags (schnelle Korrektur) oder Triangles (Verdichtungsphasen). Der Punkt ist: Korrekturen sind vielfältig. Und genau das macht sie schwer greifbar.
 
 Wichtig ist: Auch in einer Korrektur kann es impulsive Bewegungen geben – zum Beispiel in der A- oder C-Welle eines ZigZags. Das ändert aber nichts an der übergeordneten Einordnung: Solange kein neuer dominanter Impuls mit Folgebewegung sichtbar wird, bleibt es eine Korrektur.
 
@@ -153,7 +178,7 @@ Und genau hier kommt der funktionale Blick ins Spiel: Ein echter Impuls bricht S
 
 > Ein Bruch ist nur dann valide, wenn er auf der Zeitebene geschieht, auf der die Struktur klar identifizierbar ist.
 
-Ein SFP ist keine Einladung zum Trendwechsel – sondern oft nur ein Richtungswechsel zurück zur Balance. Der Markt zeigt damit, dass das vorherige Extrem nicht akzeptiert wurde – aber wohin die Reise danach geht, ist offen. In vielen Fällen ist ein SFP der Auslöser für eine Korrekturbewegung zurück zum fairen Preis – oder in eine Range, in der neue Entscheidungen vorbereitet werden. Erst wenn diese Bewegung eigene Struktur aufbaut, kann daraus ein echter Richtungswechsel entstehen.
+Ein SFP ist keine Einladung zum Trendwechsel – sondern oft nur ein Richtungswechsel zurück zur Balance - also in Richtung fairen Preisbereichs oder Akzeptanzzone. Der Markt zeigt damit, dass das vorherige Extrem nicht akzeptiert wurde – aber wohin die Reise danach geht, ist offen. In vielen Fällen ist ein SFP der Auslöser für eine Korrekturbewegung zurück zum fairen Preis – oder in eine Range, in der neue Entscheidungen vorbereitet werden. Erst wenn diese Bewegung eigene Struktur aufbaut, kann daraus ein echter Richtungswechsel entstehen.
 
 > Merksatz: Ein SFP beendet den Impuls – nicht den Trend.
 
