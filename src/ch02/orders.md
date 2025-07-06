@@ -66,4 +66,4 @@ Eine andere Technik: **Iceberg Orders**. Hier wird nur ein kleiner Teil einer gr
 
 Iceberg Orders können gezielt genutzt werden, um große Volumina zu absorbieren, ohne dabei Aufmerksamkeit zu erregen. Sie sind deshalb auch ein wichtiges Werkzeug, um Positionen aufzubauen oder zu verstecken – insbesondere rund um Wendepunkte im Markt. Wir werden diesem Prinzip später erneut begegnen, wenn wir über Reversals, Absorption und verdecktes Interesse sprechen.
 
-> **🛈 Achtung**: Orderbuch, Volumen und Heatmaps funktionieren nur zuverlässig in echten zentralisierten Märkten wie Futures oder Krypto-Börsen. Bei CFD-Brokern sind diese Daten oft verzerrt, verspätet oder gar simuliert – und damit keine verlässliche Grundlage für Analyse oder Entscheidungen.
+> **Achtung**: Orderbuch, Volumen und Heatmaps funktionieren nur zuverlässig in echten zentralisierten Märkten wie Futures oder Krypto-Börsen. Bei CFD-Brokern sind diese Daten oft verzerrt, verspätet oder gar simuliert – und damit keine verlässliche Grundlage für Analyse oder Entscheidungen.
