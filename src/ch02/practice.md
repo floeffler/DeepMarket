@@ -14,7 +14,7 @@ Später in diesem Kapitel schauen wir uns zwei konkrete Instrumente an, um Akzep
 
 Doch weder das eine noch das andere liefert dir ein Setup. Sie helfen dir nur zu erkennen, wo du bist – damit du besser entscheiden kannst, was du tun willst.
 
-### Was ist das Volume Profile?
+### Was ist das Volume Profile?{#subsec:#volume_profile}
 
 Das Volume Profile ist ein Werkzeug, das zeigt, wie viel Volumen auf welchem Preisniveau innerhalb eines bestimmten Zeitraums gehandelt wurde. Im Gegensatz zu den üblichen Volumenbalken am unteren Rand eines Charts – die anzeigen, wie viel innerhalb einer Zeiteinheit gehandelt wurde – verteilt das Volume Profile das Volumen auf Preisniveaus. Es zeigt dir, wo wie viel gehandelt wurde, nicht wann. Ein typisches Volume Profile besteht aus:
 

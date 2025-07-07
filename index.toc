@@ -11,3 +11,5 @@ src/ch02/conclusion.md
 src/ch03/intro.md
 src/ch03/intention.md
 src/ch03/swings.md
+src/ch03/ranges.md
+
