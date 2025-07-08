@@ -1,4 +1,4 @@
-## Range – Wenn der Markt zur Ruhe kommt
+## Range – Wenn der Markt zur Ruhe kommt{#sec:ranges}
 
 Der Markt bewegt sich nicht kontinuierlich in Trends. Ein Großteil der Zeit verbringt er in sogenannten __Ranges__ – Phasen, in denen weder Käufer noch Verkäufer einen klaren Vorteil haben. Der Preis schwankt zwischen definierten Extremen und kehrt immer wieder zu einem fairen Mittelwert zurück. Diese Seitwärtsphasen sind kein Stillstand, sondern ein zentraler Bestandteil der Marktmechanik: Sie bilden das Gleichgewicht zwischen Angebot und Nachfrage ab.
 
@@ -15,7 +15,7 @@ Oder funktional gesagt:__Preisfindung unter Unsicherheit__. Gleichzeitig dienen 
 
 Im weiteren Verlauf dieses Kapitels klären wir, wie sich diese Phasen erkennen, einordnen und gezielt handeln lassen – ohne in den Grabenkämpfen an den Extremen zerrieben zu werden.
 
-### 3.3.1 Was ist eine Range?
+### Was ist eine Range?
 
 Eine Range entsteht typischerweise nach einem impulsiven Move – sie markiert eine Phase der Neuorientierung. Funktional entspricht sie oft einer Korrekturbewegung, die sich innerhalb der Spanne des letzten Swings abspielt. Hoch und Tief der Range lassen sich deshalb häufig direkt aus dem Swing High und Swing Low ableiten.
 
@@ -83,9 +83,9 @@ Diese Sichtweise ist nicht falsch – im Gegenteil: Sie spiegelt das Grundprinzi
 Das wussten schon die alten Römer – und vermutlich auch der erste Olivenhändler der Antike. Doch so hilfreich diese Einteilung für die Orientierung ist, sie bleibt oberflächlich. Denn Preis ist kein statischer Wert – sondern das Ergebnis eines Aushandlungsprozesses. Und deshalb reicht es nicht, den Markt geometrisch in zwei Hälften zu teilen. Was wir brauchen, ist ein Modell, das nicht nur wo, sondern auch warum unterscheidet.
 
 #### Ein funktionaler Blick auf Ranges
-EEine praxisnahe Einteilung betrachtet die Range nicht nur geometrisch – sondern funktional. Statt von zwei symmetrischen Hälften auszugehen, unterscheiden wir drei Zonen mit klarer Rolle:
+Eine praxisnahe Einteilung betrachtet die Range nicht nur geometrisch – sondern funktional. Statt von zwei symmetrischen Hälften auszugehen, unterscheiden wir drei Zonen mit klarer Rolle:
 
-- **Supply** (obere 25–30 %): Hier beginnt der Markt, hohe Preise zu hinterfragen. Ob durch aktiven Verkaufsdruck oder schlicht fehlendes Kaufinteresse – das Verhalten ändert sich. Der Preis „wickt“ über das High hinaus, scheitert oder wird direkt absorbiert. Oft entsteht hier der nächste Abwärtsimpuls – nicht weil es das High ist, sondern weil sich Verhalten ändert.
+- **Supply** (obere 25–30 %): Hier beginnt der Markt, hohe Preise zu hinterfragen. Ob durch aktiven Verkaufsdruck oder schlicht fehlendes Kaufinteresse – Die Marktreaktion wird plötzlich passiv. Der Preis „wickt“ über das High hinaus, scheitert oder wird direkt absorbiert. Oft entsteht hier der nächste Abwärtsimpuls – nicht weil es das High ist, sondern weil sich Verhalten ändert.
 
 - **Fair Price** (mittlerer Bereich, etwa 30–70 %): Dieser Bereich steht für temporären Konsens. Hier treffen sich Angebot und Nachfrage – es passiert viel, aber bewegt sich wenig. Der Preis wird akzeptiert, Volumen häuft sich, aber ohne klare Richtung. Genau deshalb ist dieser Bereich gefährlich: Wer hier ohne Kontext handelt, verlässt sich auf Zufall. Im Unterschied zum oft dogmatisch gesetzten 50 %-Level im ICT/SMC-Kontext verstehen wir unter Equilibrium nicht einen exakten Wert, sondern eine Zone temporärer Akzeptanz – sichtbar durch Volumen und fehlende Richtung.
 
@@ -157,7 +157,7 @@ Deshalb gilt: **Geduld vor Analyse**. Lass den Markt zuerst sprechen – bevor d
 
 In dem Beispiel in [@fig:vr_range] siehst du eine klassische Seitwärtsphase mit klar definiertem Range High (Supply-Zone) und Range Low (Demand-Zone), eingerahmt durch zwei farblich markierte Bereiche. Dazwischen bildet sich über die Zeit eine stabile Value Area heraus, die sich sichtbar verschiebt – ein Hinweis darauf, wie der Markt neu bewertet und wo er Konsens findet. Der Point of Control (POC) wandert dabei leicht nach oben, was funktional einer schleichenden Akzeptanz höherer Preise entspricht – ohne dass es direkt zu einem Ausbruch kommt. Besonders spannend: Das Volumen am unteren Bildrand zeigt immer dann erhöhte Aktivität, wenn der Preis innerhalb der Range aufwärts läuft. Dieses Verhalten deutet auf eine Akkumulation hin – Käufer sind aktiv, wenn der Preis günstig ist, aber es fehlt (noch) der strukturelle Ausbruch nach oben.
 
-> Akkumulation erkennt man nicht an Mustern – sondern am Verhalten unter der Oberfläche. Wenn Preis billig ist und Volumen hoch, will jemand was haben. 
+> Akkumulation erkennt man nicht an Mustern – sondern am Verhalten unter der Oberfläche. Wenn der Preis günstig ist und gleichzeitig hohes Volumen auftritt, will jemand was haben. 
 
 **Achtung**: Nicht jedes Volume-Cluster mit Reaktionen an den Rändern ist automatisch eine Akkumulation.
 
@@ -278,4 +278,39 @@ Deshalb lohnt sich aus unserer Sicht oft der strategische Verzicht:
 
 > Trendphasen sind einfacher zu handeln als Ranges. Es lohnt sich, zu warten.
 
-Eine Range ist keine Endstation – sie ist eine Vorbereitung. Sie erzeugt die Liquidität, die es braucht, um einen neuen Impuls zu starten.Und genau da setzen wir an: Im nächsten Kapitel schauen wir uns an, wie sich Märkte aus solchen Gleichgewichtszonen heraus bewegen – vom Range-Markt in den Impuls, von dort in die Korrektur, und dann – vielleicht – in eine neue Struktur. Wir nennen das: **RIMC-Zyklus**. Denn wer versteht, wo wir im Zyklus stehen, versteht auch, was der Markt als Nächstes braucht.
+Eine Range ist keine Endstation – sie ist eine Vorbereitung. Sie erzeugt die Liquidität, die es braucht, um einen neuen Impuls zu starten.Und genau da setzen wir an: Im nächsten Abschnitt schauen wir uns an, wie sich Märkte aus solchen Gleichgewichtszonen heraus bewegen.
+
+### Der RIMC-Zyklus
+
+Der Markt bewegt sich nicht in endlosen Trends – sondern in wiederkehrenden Funktionszyklen. Impuls, Korrektur, Folgeimpuls – das ist kein Pattern, sondern ein **strukturelles Grundprinzip**. Preisentwicklung kann wie folgt einfach beschrieben werden:
+
+- In der Range wird Position aufgebaut.
+- Ein starker Impuls, der die Range verlässt, signalisiert die erste Intention.
+- Die nachfolgende Korrektur testet Liquidität und Commitment.
+- Erst der Folgeimpuls treibt die Bewegung nachhaltig weiter.
+
+Du findest diese Struktur überall – im 5-Minuten-Chart, auf Tagesbasis oder an historischen Wendepunkten. Sie ist nicht immer sichtbar, aber immer wirksam. Denn Märkte brauchen Liquidität. Und Liquidität findet sich dort, wo der Markt schon einmal bereit war zu handeln – also an früheren Akzeptanzzonen, in denen bereits Volumen aufgebaut wurde.
+
+Genau dieses Verhalten wurde von James Dalton im Market Profile beschrieben: Der Preis tendiert dazu, zu Bereichen zurückzukehren, in denen zuvor hoher Umsatz stattfand, weil dort zuvor Marktteilnehmer bereit waren, Preise zu akzeptieren. Auch wenn der Begriff __Value Revisit__ nicht als offizieller Terminus verwendet wird, ist das zugrunde liegende Prinzip ein zentraler Bestandteil seiner Theorie.
+
+Und Dalton ist nicht allein: Auch Elliott – ohne es explizit zu benennen – hat schon in seiner Wellenstruktur genau dieses Prinzip abgebildet. Jeder Impuls wird korrigiert, und jede Korrektur ist letztlich nur der Weg zurück zum Perceived Value, bevor der nächste Impuls startet. Selbst Wyckoff beschreibt in seinen Akkumulations- und Distributionsphasen den Bruch einer Zone, die Rückkehr zur Akzeptanz – und den folgenden Expansionsimpuls.
+
+> Wo Akzeptanz war, entsteht Interesse. Wo Interesse war, entsteht Reaktion.
+
+**RIMC** ist ein Begriff aus der Smart-Money-Welt (SMC) zur funktionalen Beschreibung der grundlegenden Marktphasen. Es ist kein neues Konzept – sondern ein modernes Label für ein wiederkehrendes Verhalten, das bereits in älteren Modellen sichtbar ist. Wir nutzen den Begriff hier als funktionales Werkzeug, um scheinbar komplexe Marktmodelle auf ihr gemeinsames Grundprinzip zurückzuführen: **Rückkehr zum Value. Fortsetzung der Absicht.** Die vier Phasen von RIMC lassen sich wie folgt beschreiben: 
+
+1. **(R)ange** (das Fundament): In der Range entsteht Gleichgewicht. Hier treffen unterschiedliche Interessen aufeinander: Käufer und Verkäufer handeln aktiv, aber ohne klare Dominanz. Diese Phase ist kein Leerlauf – sondern Vorbereitung. Wer hier aufmerksam ist, erkennt, wo Position aufgebaut wird, und welche Zonen potenziell verteidigt oder angegriffen werden. In der Value Area entsteht das Fundament - __die Basis__ - für die nächste Bewegung.
+
+2. **(I)nitiation** (Der erste Vorstoß): Ein impulsiver Ausbruch aus der Range zeigt Absicht. Dieser erste Move - begleitet von einem Strukturbruch – ist das Signal, dass eine Seite die Kontrolle übernimmt. Es geht nicht um das Muster, sondern um das Momentum: Die Initiation zeigt, wohin der Markt will. Sie ist nicht einfach nur eine starke Bewegung – sie ist der erste funktionale Ausdruck eines Machtwechsels: Wer übernimmt den Markt? Das unterscheidet sie vom bloßen Impuls, der visuell sichtbar, aber strukturell bedeutungslos sein kann.
+
+3. **(M)itigation** (Rücklauf mit Absicht): Der Markt kehrt zurück – aber nicht zufällig. In dieser Phase werden vorherige Zonen erneut angelaufen, um Liquidität zu testen, Positionen zu managen oder schwache Hände aus dem Markt zu drängen. Hier entscheidet sich, ob das erste Signal valide war. Oft sehen wir Reaktionen an alten Demand-Zonen, Range-Grenzen oder Value Areas. Die Mitigation ist kein Rückfall – sondern Teil der Struktur. Der Begriff Mitigation stammt ursprünglich aus der SMC/ICT-Welt, beschreibt aber funktional etwas Universelles: die Rückkehr zu einer vorherigen Zone mit dem Ziel, Restliquidität aufzunehmen oder neue Orders zu platzieren.
+
+4. **(C)ontinuation** (Die Chance): Sobald der Markt nach der Mitigation erneut anzieht, beginnt die entscheidende Phase für Trader: die Continuation. Hier zeigt sich, ob der Markt die vorherige Struktur wirklich akzeptiert und fortsetzt. Und genau hier liegt der Moment, in dem ein Einstieg sinnvoll wird. Wenn eine klare Basis geformt wurde, ein erster Initiationsimpuls sichtbar ist und der Rücklauf (Mitigation) gehalten hat, entsteht ein echtes Setup. Die Continuation ist kein Zufallsprodukt, sondern der strukturelle Moment, an dem sich Intention in Bewegung übersetzt – und Risikomanagement mit Kontext möglich wird.
+
+Diese Dynamik bildet die Grundlage für das Verständnis vieler scheinbar komplexer Marktbewegungen – über alle Zeitebenen hinweg. Die vier Phasen von RIMC lassen sich nicht nur beschreiben, sondern auch visuell nachvollziehen – wie in Abbildung [@fig:rimc] zu sehen. Das Schaubild fasst die zyklische Logik des Modells zusammen und zeigt, wie Preis, Liquidität und Struktur ineinandergreifen.
+
+ __RIMC ist aber kein festes Gesetz – sondern ein konzeptionelles Modell.__ Es beschreibt wiederkehrende Verhaltensmuster im Markt, die sich aus der Dynamik von Angebot und Nachfrage ergeben. Nicht jede Bewegung passt perfekt in dieses Schema – aber wer den Markt so liest, erkennt Struktur statt Chaos. Es gilt: Nicht jede Range wird zurückerobert. Manche Zonen bleiben offen – bis zur nächsten Korrektur, dem nächsten Bärenmarkt oder vielleicht für immer. Doch das ändert nichts am Prinzip. Märkte brauchen Liquidität – und Liquidität entsteht dort, wo bereits Wert gesehen wurde.
+
+> RIMC ist keine starre Schablone – sondern ein funktionales Denkmodell. 
+
+![Der RIMC-Zyklus: Jede Phase erfüllt eine klare funktionale Rolle – von Akkumulation bis Fortsetzung.](../../assets/rimc.png){#fig:rimc}
