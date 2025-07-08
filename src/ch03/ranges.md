@@ -177,7 +177,7 @@ Das Ziel großer Marktteilnehmer ist es, Positionen aufzubauen oder abzubauen �
 > Eine Range ist kein Trend. Wer in der Mitte auf Fortsetzung setzt, handelt Hoffnung – kein Setup.
 
 
-### Dynamische Ranges entlang des Trends
+### Dynamische Ranges entlang des Trends{#subsec:dynamic_range}
 
 Nicht jede Range ist horizontal. Märkte konsolidieren auch in Bewegung – oft als Flagge, Channel oder Keil. Funktional unterscheidet sich das Verhalten kaum: Auch hier verhandelt der Markt Preis und Wert unter Unsicherheit. Der Unterschied liegt nur im Gefälle.
 

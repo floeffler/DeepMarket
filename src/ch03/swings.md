@@ -183,3 +183,61 @@ Ein SFP ist keine Einladung zum Trendwechsel – sondern oft nur ein Richtungswe
 > Merksatz: Ein SFP beendet den Impuls – nicht den Trend.
 
 Impuls und Korrektur sind keine Muster – sondern Funktionseinheiten. Wer sie erkennt, versteht den Rhythmus des Marktes. Nur wer Impuls und Korrektur im Kontext liest, handelt nicht gegen den Markt – sondern mit ihm.
+
+
+### Trendlines – Struktur sichtbar machen
+
+Trendlinien sind kein heiliger Gral – aber sie sind auch keine Esoterik. Sie visualisieren das, was der Markt ohnehin tut: Bewegung entlang einer strukturellen Achse.
+
+> Eine Trendlinie zeigt nicht, wo der Markt entscheidet – sondern wie lange er einer Entscheidung folgt.
+
+Doch ihre eigentliche Stärke liegt woanders: **Trendlinien machen Momentum sichtbar**. Und Momentum ist nichts anderes als der funktionale Ausdruck eines laufenden Marktzustands. Solange die Linie gehalten wird, bleibt der Fluss intakt. Doch wenn sie bricht, ist das ein Hinweis: __Etwas ändert sich.__ Und zwar nicht auf dem Chart – sondern im Verhalten.
+
+##### Dynamischer Support? Nur mit Struktur.
+Oft wird eine Trendlinie als dynamischer Support oder Resistance verstanden – das ist nicht falsch, aber zu kurz gedacht. Entscheidend ist nicht, dass eine Linie gehalten oder gebrochen wird – sondern, ob mit dem Bruch auch funktionale Struktur verloren geht. Deshalb genügt es nicht, den Bruch einer Linie zu sehen. Man muss ihn einordnen:
+
+- Wurde ein markantes Swing Low oder High genommen?
+- Hat sich die Mikrostruktur verändert?
+- Kam Volumen ins Spiel?
+- Gab es Absorption, Rejection – oder einfach nur ein Durchgleiten?
+
+Nur wenn der Bruch **kontextuell bestätigt** wird, deutet er auf eine neue Phase hin – etwa den Übergang von Korrektur zu Impuls oder von Trend zu Konsolidierung. Ohne diesen funktionalen Bruch bleibt es nur ein Versuch, Liquidität aus dem Markt zu ziehen.
+
+> Wer Struktur bricht, zeigt Absicht. Wer nur Linien bricht, sammelt Liquidität.
+
+##### Trendlines machen Muster sichtbar – aber Muster sind nicht die Wahrheit
+Ein häufiger Denkfehler: Trader sehen ein Muster (Wedge, Channel, Flagge), weil sie eine Linie erkennen – und schließen daraus automatisch auf die Richtung. Doch das Muster ist nicht die Wahrheit. Es ist nur die Verpackung. Die Bedeutung ergibt sich erst durch Verhalten und Kontext (siehe [@subsec:dynamic_range]).
+
+Eine Trendlinie ist wie eine Kameraeinstellung. Was du siehst, hängt davon ab, wo du hinschaust – nicht davon, was wirklich passiert. Trendlinien helfen beim Erkennen von Mustern – aber sie sind keine Setup-Grundlage. Nicht das Pattern entscheidet – sondern was beim Bruch passiert. Deshalb traden wir nicht die Linie, sondern das Verhalten, das sich nach dem Bruch zeigt.
+
+Je nach Marktphase erfüllt eine Trendlinie eine andere Rolle: 
+- **Bullisher Markt**: Verbindung der Lows zeigt dynamischen Support. Bruch dieser Linie kann auf Schwäche hinweisen – wenn auch Struktur gebrochen wird.
+- **Bearisher Markt**: Verbindung der Highs zeigt dynamischen Druck. Ein Bruch nach oben kann auf beginnende Akkumulation hinweisen – aber nur, wenn Reaktion und Mikrostruktur stimmen.
+
+**Seitwärtsphasen** (Range): Beide Seiten (Highs und Lows) markieren die Kampfzonen. Trendlinien helfen hier, die Zyklen innerhalb der Range sichtbar zu machen – z. B. von Demand zu Supply und zurück.
+
+Nicht jede Linie ist gleich – ihre Relevanz ergibt sich aus der Struktur, in der sie eingebettet ist.
+
+Schon Elliott hat erkannt, dass viele Impulsbewegungen innerhalb eines Kanals verlaufen. Dabei entstehen klare äußere Begrenzungen – visuell durch Verbindung von Punkt 0–2–4 – funktional durch Preisverhalten und Wiederholung. Diese Kanäle sind keine Garantie – aber ein Rahmen, der hilft, das Potenzial einer Bewegung besser einzuschätzen.
+
+- Die obere Trendlinie gibt einen möglichen Zielbereich (z. B. Welle 5).
+- Der Bruch der unteren Linie kann auf das Ende des Impulses hindeuten – aber nur, wenn er mit Strukturverlust einhergeht.
+
+> Der Kanal sagt dir nicht, wie weit der Preis läuft. Aber er zeigt dir, wo du hinschauen solltest.
+
+Gerade bei fortgeschrittenen Bewegungen hilft der Kanal, Überdehnung zu erkennen – oder Reife. Und manchmal genügt eine Berührung, damit der Markt die Richtung ändert – nicht wegen der Linie, sondern weil der Impuls funktional am Ende ist.
+
+##### Tori Trades: Wenn Einfachheit trifft auf Struktur
+Ein gutes Beispiel für den bewussten Umgang mit Trendlinien liefert die bekannte Traderin Tori Trades. Ihr A+ Setup basiert auf einer Trendlinie mit drei Berührungen und einem Bruch – klingt simpel, ist aber funktional:
+
+- Die Linie repräsentiert die Kante eines reifen Impulses.
+- Der Bruch signalisiert ein Ende dieser Impulsphase.
+- Der Retest zeigt, ob die Struktur noch verteidigt wird – oder ob ein Richtungswechsel beginnt.
+
+Man könnte sagen: **Tori handelt nicht die Linie – sie handelt die Absicht hinter dem Bruch.** Noch interessanter wird es bei ihrem B-Setup: Zwei Touchpoints reichen, solange klar ist, dass es sich um eine korrektive Bewegung handelt. Hier kann der Bruch als Ausbruch aus der Korrektur gewertet – und damit potenziell der Beginn eines neuen Impulses. Der Clou: dieses Setup hat ein wesentlich größeres Gewinnpotential als ihr A+ Setup.
+
+> Wer Trendlinien richtig nutzt, handelt keine Geometrie – sondern funktionale Struktur.
+
+Was Tori in ihrem Setup demonstriert – bewusst oder nicht – ist im Kern eine der kraftvollsten Anwendungen von Trendlinien: Reversals sichtbar machen, bevor sie strukturell vollzogen sind. Der impulsive Bruch einer etablierten Linie signalisiert den Verlust des bisherigen Momentums – und der Retest bietet eine potenzielle Einstiegsmöglichkeit gegen die vorangegangene Bewegung.
+
+Doch dieser Mechanismus funktioniert **nicht isoliert**. Ein Reversal ohne Kontext ist kein Setup – es ist ein Ratespiel. __Nur wenn der Trendlinienbruch mit einer Reaktion an einer Higher Timeframe Zone zusammenfällt und durch eine gebrochene Struktur bestätigt wird, entsteht echte Aussagekraft.__ Genau diesen letzten Schritt lässt Tori in ihren Setups häufig aus: Sie verlässt sich auf das Pattern – nicht auf den strukturellen Kontext. Trendlinien können helfen, Reversals sichtbar zu machen – doch erst der strukturelle Kontext entscheidet, ob daraus ein valider Trade wird.
