@@ -208,7 +208,7 @@ Nur wenn der Bruch **kontextuell bestätigt** wird, deutet er auf eine neue Phas
 ##### Trendlines machen Muster sichtbar – aber Muster sind nicht die Wahrheit
 Ein häufiger Denkfehler: Trader sehen ein Muster (Wedge, Channel, Flagge), weil sie eine Linie erkennen – und schließen daraus automatisch auf die Richtung. Doch das Muster ist nicht die Wahrheit. Es ist nur die Verpackung. Die Bedeutung ergibt sich erst durch Verhalten und Kontext (siehe [@subsec:dynamic_range]).
 
-Eine Trendlinie ist wie eine Kameraeinstellung. Was du siehst, hängt davon ab, wo du hinschaust – nicht davon, was wirklich passiert. Trendlinien helfen beim Erkennen von Mustern – aber sie sind keine Setup-Grundlage. Nicht das Pattern entscheidet – sondern was beim Bruch passiert. Deshalb traden wir nicht die Linie, sondern das Verhalten, das sich nach dem Bruch zeigt.
+Eine Trendlinie ist wie eine Kameraeinstellung. Was du siehst, hängt davon ab, wo du hinschaust – nicht davon, was wirklich passiert. Trendlinien helfen beim Erkennen von Mustern - aber __allein__ liefern sie selten ein vollständiges Setup. Nicht das Pattern entscheidet – sondern was beim Bruch passiert. In einigen mechanischen Strategien mag eine Trendlinie Teil eines klar definierten Regelwerks sein – etwa mit festen Parametern für Breakouts, Stops und Targets. Doch auch dann gilt: Ihre Stärke entfaltet sich erst durch den Kontext. Ohne funktionale Einordnung bleibt die Linie Geometrie – mit Kontext wird sie zur Struktur.
 
 Je nach Marktphase erfüllt eine Trendlinie eine andere Rolle: 
 - **Bullisher Markt**: Verbindung der Lows zeigt dynamischen Support. Bruch dieser Linie kann auf Schwäche hinweisen – wenn auch Struktur gebrochen wird.
@@ -227,17 +227,20 @@ Schon Elliott hat erkannt, dass viele Impulsbewegungen innerhalb eines Kanals ve
 
 Gerade bei fortgeschrittenen Bewegungen hilft der Kanal, Überdehnung zu erkennen – oder Reife. Und manchmal genügt eine Berührung, damit der Markt die Richtung ändert – nicht wegen der Linie, sondern weil der Impuls funktional am Ende ist.
 
-##### Tori Trades: Wenn Einfachheit trifft auf Struktur
-Ein gutes Beispiel für den bewussten Umgang mit Trendlinien liefert die bekannte Traderin Tori Trades. Ihr A+ Setup basiert auf einer Trendlinie mit drei Berührungen und einem Bruch – klingt simpel, ist aber funktional:
+##### Reversals erkennen mit Trendlinien
+
+Eine der wirkungsvollsten Anwendungen von Trendlinien ist ihre Fähigkeit, potenzielle Reversals sichtbar zu machen – lange bevor sie strukturell vollzogen sind. Wenn der Preis eine etablierte Linie impulsiv durchbricht, signalisiert das einen Bruch des bisherigen Momentums. Und und genau hier zeigt sich die Stärke funktionaler Trendlinien: Sie markieren nicht nur, dass etwas endet – sondern auch, wo eine neue Phase beginnen kann. Besonders deutlich wird das bei Reversals – z. B. im Ansatz von [Tori Trades](https://toritradez.com/).
+
+Ihr A+ Setup basiert auf einer Trendlinie mit drei Berührungen und einem Bruch – klingt simpel, ist aber funktional:
 
 - Die Linie repräsentiert die Kante eines reifen Impulses.
 - Der Bruch signalisiert ein Ende dieser Impulsphase.
 - Der Retest zeigt, ob die Struktur noch verteidigt wird – oder ob ein Richtungswechsel beginnt.
 
-Man könnte sagen: **Tori handelt nicht die Linie – sie handelt die Absicht hinter dem Bruch.** Noch interessanter wird es bei ihrem B-Setup: Zwei Touchpoints reichen, solange klar ist, dass es sich um eine korrektive Bewegung handelt. Hier kann der Bruch als Ausbruch aus der Korrektur gewertet – und damit potenziell der Beginn eines neuen Impulses. Der Clou: dieses Setup hat ein wesentlich größeres Gewinnpotential als ihr A+ Setup.
+Noch interessanter ist ihr B-Setup: Hier reichen zwei Touchpoints, wenn klar ist, dass es sich um eine korrektive Bewegung handelt. Der Bruch wird dann als Ausbruch aus der Korrektur gewertet – und potenziell als Start eines neuen Impulses gehandelt. Dieses Setup bietet oft ein besseres CRV als das A+ Setup.
 
 > Wer Trendlinien richtig nutzt, handelt keine Geometrie – sondern funktionale Struktur.
 
-Was Tori in ihrem Setup demonstriert – bewusst oder nicht – ist im Kern eine der kraftvollsten Anwendungen von Trendlinien: Reversals sichtbar machen, bevor sie strukturell vollzogen sind. Der impulsive Bruch einer etablierten Linie signalisiert den Verlust des bisherigen Momentums – und der Retest bietet eine potenzielle Einstiegsmöglichkeit gegen die vorangegangene Bewegung.
+Ein wichtiger Punkt in Toris Methode: Sie **wartet nicht auf den Retest**. Ihre Begründung lautet: Auf den höheren Zeitrahmen kommt der Retest oft gar nicht oder erst sehr spät. Und diese Aussage ist nachvollziehbar: Tori fokussiert sich auf Platin – ein Markt, der durch impulsive Bewegungen geprägt ist. Viele Retests finden dort, wenn überhaupt, nur auf kleineren Zeitebenen statt. Die Struktur bestätigt sich oft erst mit deutlicher Verzögerung oder gar nicht. Wer darauf wartet, verpasst häufig den Großteil der Bewegung. Sie hat jedoch klare Regeln, wann das Setup invalide ist: der Bruch der sogenannten "Safetyline", dem Momentum welches die neue Bewegung trägt. Weil sie den Retest nicht abwartet, kann ihre Position zeitweise deutlich unter Wasser stehen. Das funktioniert nur, wenn man mental in der Lage ist, diese Phasen auszuhalten – und auf das übergeordnete Setup vertraut.
 
-Doch dieser Mechanismus funktioniert **nicht isoliert**. Ein Reversal ohne Kontext ist kein Setup – es ist ein Ratespiel. __Nur wenn der Trendlinienbruch mit einer Reaktion an einer Higher Timeframe Zone zusammenfällt und durch eine gebrochene Struktur bestätigt wird, entsteht echte Aussagekraft.__ Genau diesen letzten Schritt lässt Tori in ihren Setups häufig aus: Sie verlässt sich auf das Pattern – nicht auf den strukturellen Kontext. Trendlinien können helfen, Reversals sichtbar zu machen – doch erst der strukturelle Kontext entscheidet, ob daraus ein valider Trade wird.
+**Aber**: Dieses Verhalten ist sehr spezifisch für Märke wie Platin. Wer auf liquidere oder strukturiertere Märkte geht (z. B. EUR/USD), sollte den Retest eher erwarten und einfordern.
