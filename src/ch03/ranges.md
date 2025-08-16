@@ -280,7 +280,7 @@ Deshalb lohnt sich aus unserer Sicht oft der strategische Verzicht:
 
 Eine Range ist keine Endstation – sie ist eine Vorbereitung. Sie erzeugt die Liquidität, die es braucht, um einen neuen Impuls zu starten.Und genau da setzen wir an: Im nächsten Abschnitt schauen wir uns an, wie sich Märkte aus solchen Gleichgewichtszonen heraus bewegen.
 
-### Der RIMC-Zyklus
+### Der RIMC-Zyklus{subsec:rimc}
 
 Der Markt bewegt sich nicht in endlosen Trends – sondern in wiederkehrenden Funktionszyklen. Impuls, Korrektur, Folgeimpuls – das ist kein Pattern, sondern ein **strukturelles Grundprinzip**. Preisentwicklung kann wie folgt einfach beschrieben werden:
 

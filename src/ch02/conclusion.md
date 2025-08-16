@@ -1,4 +1,4 @@
-### Fazit
+## Fazit
 
 - Preis ist keine Ursache – sondern die Folge von gehandelten Interessen.
 -Liquidität ist der Treibstoff jeder Bewegung. Sie ist kein magischer Ort – sondern das Resultat kollektiver Erwartungen.
@@ -31,13 +31,13 @@ Wenn du die Themen aus diesem Kapitel weiter vertiefen möchtest, findest du hie
 - **Rubén Villahermosa - Wyckoff 2.0: Structures, Volume Profile and Order Flow**\
   Moderne Interpretation der Wyckoff-Lehre im Kontext aktueller Märkte. Gut für praktisches Verständnis von Akkumulation, Distribution und Struktur.
 
-- **Andrea Cimi (YouTube)**\
-  Vermittelt fundiertes Wissen zu Orderflow, Futures-Märkten und institutionellen Strategien – jenseits von Hype und Schlagworten.
+- **[Andrea Cimi](https://www.youtube.com/@AndreaCimi)**\
+  Tiefer Blick in Orderflow, Futures-Märkte und institutionelle Strategien. Seine nüchterne, faktenbasierte Art hat mir gezeigt, dass es im Kern um Marktmechanik geht – nicht um fancy Begriffe.
 
-- **Trader Dale (YouTube)**\
-  Fokus auf Volume Profile, Marktstruktur und Reaktionszonen. Sehr praxisnah mit vielen Live-Beispielen.
+- **[TraderDale](https://www.youtube.com/@TraderDale1)**\
+Fokus auf Volume Profile und Orderflow. Für mich ein Gamechanger: Value Areas und HVNs/LVNs als Orientierung. Mitgenommen habe ich, dass __Preis alleine nie reicht – Volumen ist das Rückgrat des Marktes.__
 
-- **Price Action Volume Trader (YouTube)**\
-  Klare Herangehensweise an Volumencluster, Akkumulationsphasen und markante Reaktionslevel – ohne überflüssige Indikatoren.
+- **[Price Action Volume Trader](https://www.youtube.com/@PriceActionVolumeTrader)**\
+  Sehr klare Herangehensweise an Volumencluster, Akkumulationsphasen und markante Reaktionslevel – ganz ohne Indikatoren-Zirkus. Für mich ein guter Reminder, dass Einfachheit oft die beste Präzision bringt.
 
 **Hinweis:** Nicht jede Quelle ist inhaltlich konsistent mit dem hier vorgestellten Framework – und das ist okay. Ziel ist nicht blinde Übereinstimmung, sondern ein breiteres Verständnis davon, wie sich Volumen, Struktur und Marktmechanik sinnvoll kombinieren lassen.

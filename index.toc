@@ -12,4 +12,7 @@ src/ch03/intro.md
 src/ch03/intention.md
 src/ch03/swings.md
 src/ch03/ranges.md
+src/ch03/intern_vs_extern.md
+src/ch03/conclusion.md
+
 

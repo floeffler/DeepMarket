@@ -1,4 +1,4 @@
-## Swings, Brüche, Impulse
+## Swings, Brüche, Impulse {#sec:swings}
 
 Um Struktur lesen zu können, musst du verstehen, wer gerade führt – und wer nur reagiert. Der Markt bewegt sich ständig. Aber nicht jede Bewegung ist gleichbedeutend. Ein echter Richtungswechsel ist etwas anderes als ein kurzer Rücklauf. Deshalb unterscheiden wir zwischen **Impuls** und **Korrektur**. Doch bevor wir diese Begriffe einführen, brauchen wir ein gemeinsames Fundament.
 
@@ -24,7 +24,7 @@ Ein scheinbares Higher High mitten in einer Range ist kein Trendstart. Ein marka
 > Struktur ist nicht statisch – sie ist der Abdruck einer Entscheidung, erkennbar erst im Zusammenhang mit dem, was vorher und danach passiert.
 
 
-### Trend – Wenn der Markt sich organisiert
+### Trend – Wenn der Markt sich organisiert{subsec:trend}
 
 Strukturpunkte sind die Bausteine – aber was ergibt sich daraus? Sobald diese Punkte eine erkennbare Abfolge bilden, spricht man von einem Trend. Ein Trend ist keine Linie, die man einzeichnet. Er ist eine Bewegung, die sich wiederholt durchsetzt – sichtbar durch aufeinanderfolgende Strukturpunkte, die in dieselbe Richtung weisen.
 
@@ -117,7 +117,7 @@ Gerade die _niedrigen Timeframes_ sind oft das Spielfeld algorithmischer Strateg
 
 Ein klarer Trend – im Sinne einer wiederholten, durchgesetzten Idee – zeigt sich meist auf höheren Zeitebenen. Dort ist genug Raum, genug Zeit und genug Kapital im Spiel, um _nachhaltige Bewegungen_ zu erzeugen. Das heißt nicht, dass man kleine Timeframes nicht handeln kann – aber sie liefern öfter falsche Signale, weil Bewegungen dort häufig impulsiv starten, aber selten konsequent weiterlaufen.
 
-Deshalb ist es wichtig, Trendstrukturen immer **mehrzeitlich** zu denken – was auf dem 5m wie ein Umkehrsignal aussieht, ist auf dem 1H oft nur eine Korrektur. Wir gehen in [@sec:intern_extern_structure] detailiert darauf ein. Wie man diese strukturellen Bewegungen später gezielt analysieren und bewerten kann – etwa durch das Zusammenspiel von Richtungsbruch, Impuls, Marktstruktur und Kontext – behandeln wir im Abschnitt [@sec:rimc]. Dort zeigen wir, wie aus roher Bewegung eine nachvollziehbare Logik entsteht.
+Deshalb ist es wichtig, Trendstrukturen immer **mehrzeitlich** zu denken – was auf dem 5m wie ein Umkehrsignal aussieht, ist auf dem 1H oft nur eine Korrektur. Wir gehen in [@sec:intern_vs_extern] detailiert darauf ein. Wie man diese strukturellen Bewegungen später gezielt analysieren und bewerten kann – etwa durch das Zusammenspiel von Richtungsbruch, Impuls, Marktstruktur und Kontext – behandeln wir im Abschnitt [@subsec:rimc]. Dort zeigen wir, wie aus roher Bewegung eine nachvollziehbare Logik entsteht.
 
 
 ### Impuls & Korrektur – Zwei Seiten derselben Struktur
