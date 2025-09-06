@@ -1,12 +1,13 @@
 src/copyright.md
-src/preamble.md
 
-src/ch02/intro.md
-src/ch02/price.md
-src/ch02/orders.md
-src/ch02/liquidity.md
-src/ch02/practice.md
-src/ch02/conclusion.md
+src/01-basics/intro.md
+src/01-basics/wave-model.md
+src/01-basics/orderflow-101.md
+src/01-basics/liquidity.md
+src/01-basics/tools.md
+src/01-basics/instutional-behavior.md
+src/01-basics/conclusion.md
+
 
 src/ch03/intro.md
 src/ch03/intention.md
@@ -14,5 +15,6 @@ src/ch03/swings.md
 src/ch03/ranges.md
 src/ch03/intern_vs_extern.md
 src/ch03/conclusion.md
+
 
 

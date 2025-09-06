@@ -40,10 +40,10 @@ Copy-Item -Recurse -Force "assets" $distPath
 
 # build EPUB
 Write-Host "Generating EPUB..."
-pandoc "index.yaml" $combinedFile -o $epubOutput --toc --css=theme/style.css --filter pandoc-crossref
+pandoc "index.yaml" $combinedFile -o $epubOutput --toc --css=theme/style.css --webtex --filter pandoc-crossref
 
 # build HTML
 Write-Host "Generating HTML..."
-pandoc "index.yaml" $combinedFile -o $htmlOutput --standalone --toc --css=theme/style.css --filter pandoc-crossref
+pandoc "index.yaml" $combinedFile -o $htmlOutput --standalone --toc --css=theme/style.css --webtex --filter pandoc-crossref --embed-resources
 
 Write-Host "Build complete: $epubOutput and $htmlOutput"
